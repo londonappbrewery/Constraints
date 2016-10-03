@@ -27,13 +27,9 @@ class ViewController: UIViewController {
         
     }
 
-    override func didReceiveMemoryWarning() {
-        super.didReceiveMemoryWarning()
-        
-    }
     
     
-    @IBAction func rollPressed(sender: AnyObject) {
+    @IBAction func rollPressed(_ sender: AnyObject) {
         
         updateDiceImages()
     }
@@ -47,15 +43,9 @@ class ViewController: UIViewController {
         secondDiceImageView.image = UIImage(named: diceArray[secondRandomIndex])
     }
     
-
     
-    override func canBecomeFirstResponder() -> Bool {
-        return true
-    }
-    
-    
-    override func motionEnded(motion: UIEventSubtype, withEvent event: UIEvent?) {
-        if motion == .MotionShake {
+    override func motionEnded(_ motion: UIEventSubtype, with event: UIEvent?) {
+        if motion == .motionShake {
             updateDiceImages()
         }
     }
