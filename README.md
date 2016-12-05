@@ -1,4 +1,4 @@
-# Constraints Tutorial Starting Project (from Coursebook)
+# Constraints Tutorial Starting Project (Coursebook)
 Learn to make iOS Apps 📱 | Project Stub | (Swift 3.0/Xcode 8) - Dicee+ App
 
 Download the starter project files as .zip and extract to your desktop. --->
