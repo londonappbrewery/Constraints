@@ -1,5 +1,5 @@
 # Constraints Tutorial Starting Project (Coursebook)
-Learn to make iOS Apps 📱 | Project Stub | (Swift 3.0/Xcode 8) - Dicee+ App
+Learn to make iOS Apps 📱 | Project Stub | (Swift 4.0/Xcode 9) - Dicee+ App
 
 Download the starter project files as .zip and extract to your desktop. --->
 
@@ -8,4 +8,4 @@ Download the starter project files as .zip and extract to your desktop. --->
 
 
 
-Copyright 2016 London App Brewery
+Copyright 2018 London App Brewery
